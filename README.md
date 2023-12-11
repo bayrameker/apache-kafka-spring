@@ -17,13 +17,13 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
 ```shell
-git clone https://github.com/your-username/kafka-spring-boot.git
+git clone https://github.com/scriptchief/apache-kafka-spring.git
 ```
 
 2. Navigate to the project directory:
 
 ```shell
-cd kafka-spring-boot
+cd apache-kafka-spring
 ```
 
 3. Start Kafka and Zookeeper services using Docker Compose:
